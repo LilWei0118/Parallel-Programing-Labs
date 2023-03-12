@@ -11,7 +11,7 @@ int main() {
 		for (int j = 0; j < 100; j++) {
 			b[i][j] = 1;
 		}
-	}//平凡算法
+	}//Normal
 	//for (int z = 0; z < 100; z++) {
 	//	for (int i = 0; i < 1000; i++) {
 	//		for (int j = 0; j < 1000; j++) {
@@ -19,7 +19,7 @@ int main() {
 	//			
 	//	}
 	//}
-	//cache优化算法
+	//cache optimize
 	//for (int z = 0; z < 100; z++) {
 	//	for (int j = 0; j < 1000; j++) {
 	//		for (int i = 0; i < 1000; i++) {
