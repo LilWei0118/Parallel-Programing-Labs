@@ -39,7 +39,7 @@ int main(){
 	for(int cy=0;cy<30;cy++){
 
 
-//	
+//	normal
 //	for(int k=0;k<N;k++)
 //	{
 //		for(int j=k+1;j<N;j++)
